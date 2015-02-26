@@ -9,9 +9,9 @@
   <name>Dennis Lundberg GitHub Release Test</name>
 
   <scm>
-    <connection>scm:git:git@github.com:dennisl/github-release-test.git</connection>
-    <developerConnection>scm:git:git@github.com:dennisl/github-release-test.git</developerConnection>
-    <url>scm:git:git@github.com:dennisl/github-release-test.git</url>
+    <connection>scm:git:git@github.com/dennisl/github-release-test.git</connection>
+    <developerConnection>scm:git:git@github.com/dennisl/github-release-test.git</developerConnection>
+    <url>scm:git:git@github.com/dennisl/github-release-test.git</url>
     <tag>HEAD</tag>
   </scm>
 
