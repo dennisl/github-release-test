@@ -4,7 +4,7 @@
 
   <groupId>se.dennislundberg.test</groupId>
   <artifactId>dennislundberg-github-release-test</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <name>Dennis Lundberg GitHub Release Test</name>
 
@@ -12,6 +12,7 @@
     <connection>scm:git:git@github.com:dennisl/github-release-test.git</connection>
     <developerConnection>scm:git:git@github.com:dennisl/github-release-test.git</developerConnection>
     <url>scm:git:git@github.com:dennisl/github-release-test.git</url>
+    <tag>dennislundberg-github-release-test-1.0</tag>
   </scm>
 
   <build>
