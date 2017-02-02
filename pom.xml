@@ -16,7 +16,7 @@
   </scm>
 
   <properties>
-    <project.scm.id>github.com</project.scm.id>
+    <project.scm.id>github</project.scm.id>
   </properties>
 
   <build>
